@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecurityapp\\cybersecurityapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|solutionrelative:cybersecurityapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecurityapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B8D0D3-D1DC-4897-91CA-66C3FBDF1152}|CyberSecurityApp.csproj|C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B8D0D3-D1DC-4897-91CA-66C3FBDF1152}|CyberSecurityApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecurityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecurityapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|c:\\users\\lab_services_student\\desktop\\cybersecurityapp\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5AC956CE-EF48-AF7C-0637-CBEA4E4AA097}|CyberSecurityApp.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CyberSecurityApp",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\CyberSecurityApp.csproj",
+              "RelativeDocumentMoniker": "CyberSecurityApp.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\CyberSecurityApp.csproj",
+              "RelativeToolTip": "CyberSecurityApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-17T10:43:25.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:42:43.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-17T10:40:47.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:40:22.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACcAAADAzczMzAwjwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:19:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CyberSecurityApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:18:28.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
