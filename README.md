@@ -9,14 +9,6 @@ A comprehensive Windows Forms application that serves as an interactive cybersec
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Usage Guide](#usage-guide)
-- [Project Structure](#project-structure)
-- [Features in Detail](#features-in-detail)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🎯 Overview
